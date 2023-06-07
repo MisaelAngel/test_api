@@ -10,6 +10,7 @@ datagroup: test_api_thelook_2_default_datagroup {
 
 # Comment Test
 # Comment2
+# Comment3 by user Alex
 persist_with: test_api_thelook_2_default_datagroup
 
 explore: account {}
